@@ -1,15 +1,20 @@
-# personal-page
+# Personal Page
 
-## Overview
-This repository contains various tutorials and examples related to personal web pages.
+This repository contains my personal page tutorial and examples.
 
 ## Features
-- Step-by-step guides to create personal pages
-- Code examples and resources
+- Portfolio
+- Blog
+- Contact Information
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## Usage
+Clone this repository to run the personal page locally.
 
 ## Future Plans
-- Expand tutorials to cover more topics
-- Add interactive examples
-
-## Acknowledgements
-Thanks to all contributors who have helped improve this project. Inspired by similar open source projects. Built with love and coffee ☕
+- Add more content
+- Improve design
